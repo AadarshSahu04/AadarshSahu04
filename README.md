@@ -66,6 +66,7 @@ Welcome to my GitHub profile! 👨‍💻
 
 ---
 
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -76,8 +77,9 @@ Welcome to my GitHub profile! 👨‍💻
 </p>
 
 ---
+-->
 
-## ✍️ Developer Quote
+## ✍️Random Developer Quote
 
 <p align="center">
   <img
@@ -88,6 +90,7 @@ Welcome to my GitHub profile! 👨‍💻
 
 ---
 
+<!--
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
@@ -98,6 +101,7 @@ Welcome to my GitHub profile! 👨‍💻
 </p>
 
 ---
+-->
 
 ## 👀 Profile Visitors
 
